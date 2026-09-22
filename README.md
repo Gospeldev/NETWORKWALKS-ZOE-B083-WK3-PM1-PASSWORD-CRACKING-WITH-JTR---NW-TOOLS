@@ -35,7 +35,26 @@ I entered the discovered password and captured the flag.
 <img width="653" height="153" alt="Downloads 9_22_2026 8_43_53 AM" src="https://github.com/user-attachments/assets/7a7f0be7-85c7-4b6a-b7e1-2564d9b64434" />
 
 ## Step 5
-I used other industry standard tools like Networkwalks hash calculator and password cracker to achieve the same result.
+I used other industry standard tools like Networkwalks hash calculator and password cracker to achieve the same result. I first used the hash calculator to get the hash of the protected pdf file.
+
+<img width="1920" height="1020" alt="Password Cracker (Dictionary Attack) - Networkwalks Academy — Mozilla Firefox 9_22_2026 2_11_00 PM" src="https://github.com/user-attachments/assets/e129921e-7896-401e-a863-69fa23db83c9" />
+
+I then began cracking, but it was unsuccessful as the default word list did not contain the particular hash. So i shuffled between different word lists till there was a successful crack.
+
+<img width="1920" height="1020" alt="Password Cracker (Dictionary Attack) - Networkwalks Academy — Mozilla Firefox 9_22_2026 2_12_16 PM" src="https://github.com/user-attachments/assets/da873046-c0b1-49d0-8d7f-003dfb900e59" />
+
+Fasttrack.txt unsuccessful.
+<img width="1920" height="1020" alt="Password Cracker (Dictionary Attack) - Networkwalks Academy — Mozilla Firefox 9_22_2026 2_27_47 PM" src="https://github.com/user-attachments/assets/ade2e62a-820b-4148-80a0-4aee9b89a41c" />
+
+JTR_default_password.txt successful. 
+<img width="1920" height="1020" alt="Password Cracker (Dictionary Attack) - Networkwalks Academy — Mozilla Firefox 9_22_2026 2_28_25 PM" src="https://github.com/user-attachments/assets/8589a448-284a-4d8d-af11-00549c827e79" />
+<img width="1920" height="1020" alt="Password Cracker (Dictionary Attack) - Networkwalks Academy — Mozilla Firefox 9_22_2026 2_35_53 PM" src="https://github.com/user-attachments/assets/8bd65a0c-03c4-4220-94b1-8a1567961f2b" />
+
+
+
+
+
+
 
 
 
