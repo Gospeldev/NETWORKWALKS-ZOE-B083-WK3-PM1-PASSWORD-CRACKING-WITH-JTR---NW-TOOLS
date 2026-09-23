@@ -50,7 +50,17 @@ JTR_default_password.txt successful.
 <img width="1920" height="1020" alt="Password Cracker (Dictionary Attack) - Networkwalks Academy — Mozilla Firefox 9_22_2026 2_28_25 PM" src="https://github.com/user-attachments/assets/8589a448-284a-4d8d-af11-00549c827e79" />
 <img width="1920" height="1020" alt="Password Cracker (Dictionary Attack) - Networkwalks Academy — Mozilla Firefox 9_22_2026 2_35_53 PM" src="https://github.com/user-attachments/assets/8bd65a0c-03c4-4220-94b1-8a1567961f2b" />
 
+# Conclusion
+This project made me familiar with password cracking and reinforced the importance of using strong passwords for systems to avoid easy compromise.
 
+# 👨‍🦰 Author
+### Chidozie Zoe Gospel
+Cybersecurity Professional B083
+
+LinkedIn: https://www.linkedin.com/in/chidozie-gospel/
+
+# Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 03 | Project: Password Cracking with JTR & NW Tools  |  Repository: Github
 
 
 
